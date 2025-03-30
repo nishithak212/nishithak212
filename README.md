@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **I started as a QA specialist, and now I’m passionate about building full-stack applications that are both reliable and user-friendly!**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/knishitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/knishitha/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/knishitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/knishitha/" height="25" width="25" /></a>
 </p>
 
 
