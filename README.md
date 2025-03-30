@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nishitha</h1>
 <h3 align="center">From QA to Full-Stack: A Passionate Developer's Journey</h3>
 
-- 🔭 I’m currently working on **building my portfolio website**
+- 🔭 I’m currently working on building my portfolio website
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning Docker and Kubernetes
 
-- 👯 I’m looking to collaborate on **building efficient and user-friendly applications that improve everyday tasks.**
+- 👯 I’m looking to collaborate on building efficient and user-friendly applications that improve everyday tasks.
 
-- 🤝 I’m looking for help with **Improving my skills in full-stack development, especially with back-end frameworks like Node.js and Express.**
+- 🤝 I’m looking for help with improving my skills in full-stack development, especially with back-end frameworks like Node.js and Express.
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](My GitHub Profile)
+  
+- 📫 How to reach me: knishitha95@gmail.com
 
-- 💬 Ask me about **Setting up full-stack projects with React and Node.js.**
+- 💬 Ask me about ReactJS / NodeJS.
 
 - ⚡ Fun fact **I started as a QA specialist, and now I’m passionate about building full-stack applications that are both reliable and user-friendly!**
 
