@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nishitha</h1>
-<h3 align="center">From QA to Full-Stack: A Passionate Developer's Journey</h3>
+<h3 align="center">QA Automation Engineer | Selenium | Python | API & Web Testing</h3>
 
-- 🔭 I’m currently working on building my portfolio website
+🔭 Currently building hands-on QA automation projects using Selenium with Python, focusing on real-world web and API testing scenarios.
 
-- 🌱 I’m currently learning Docker and Kubernetes
+🌱 Actively learning test automation frameworks, Page Object Model (POM), Git, and CI-ready automation practices.
 
-- 👯 I’m looking to collaborate on building efficient and user-friendly applications that improve everyday tasks.
+👯 Open to collaborating on QA automation projects, test frameworks, and improving test reliability and coverage.
 
-- 🤝 I’m looking for help with improving my skills in full-stack development, especially with back-end frameworks like Node.js and Express.
-  
-- 📫 How to reach me: knishitha95@gmail.com
+🤝 Looking to strengthen skills in automation scripting, debugging flaky tests, and test framework design.
 
-- 💬 Ask me about ReactJS / NodeJS.
+📫 How to reach me: knishitha95@gmail.com
 
-- ⚡ Fun fact **I started as a QA specialist, and now I’m passionate about building full-stack applications that are both reliable and user-friendly!**
+💬 Ask me about Manual Testing, Selenium Automation, Python basics, Test Design, and API testing.
+
+⚡ Fun fact: I started my career in QA, worked across manual, performance, and coordination roles, and I’m now rebuilding strong hands-on automation expertise.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
